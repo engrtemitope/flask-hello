@@ -1,5 +1,4 @@
 certifi==2021.5.30
-click @ file:///tmp/build/80754af9/click_1621604852318/work
 Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
 Flask-SQLAlchemy @ file:///tmp/build/80754af9/flask-sqlalchemy_1616180561581/work
 greenlet @ file:///opt/concourse/worker/volumes/live/3d030e63-590e-4f13-439a-f458077e6fdc/volume/greenlet_1620913624685/work
