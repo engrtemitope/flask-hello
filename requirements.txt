@@ -1,7 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
-ca-certificates=2021.5.25=hecd8cb5_1
 certifi=2021.5.30=py39hecd8cb5_0
 click=8.0.1=pyhd3eb1b0_0
 flask=1.1.2=pyhd3eb1b0_0
